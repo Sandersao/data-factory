@@ -1,5 +1,5 @@
 {
-  "name": "data-factory",
+  "name": "@sanderson.rocha/data-factory",
   "version": "1.0.0",
   "description": "Libraries to help on dummy data creation",
   "main": "index.js",
